@@ -1518,5 +1518,81 @@
         "createdAt": "2023-12-09T00:56:59.000Z",
         "updatedAt": "2024-03-05T22:42:34.000Z",
         "businessName": "Salango"
+    },
+    {
+        "id": 2221,
+        "description": "Cien años de soledad",
+        "detail": "La obra maestra de Gabriel García Márquez.",
+        "group": "Ficción",
+        "price": 20000,
+        "withoutStock": null,
+        "hide": true,
+        "businessId": 144,
+        "image": {
+            "key": "productImages/80f538af-0ea1-4e75-a273-552890c48440__773.jpg",
+            "previewUrl": "https://apptender-default-prod.s3.amazonaws.com/productImages/80f538af-0ea1-4e75-a273-552890c48440__773.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQXE6CB4ILVGN3ZGK%2F20240308%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240308T160638Z&X-Amz-Expires=900&X-Amz-Signature=568184f17f3f0f77d740298cf5d378d680b0c7afe797ff5b76e72b6bfd618533&X-Amz-SignedHeaders=host"
+        },
+        "imageName": null,
+        "featured": null,
+        "createdAt": "2023-12-09T00:56:59.000Z",
+        "updatedAt": "2024-03-05T22:42:34.000Z",
+        "businessName": "Librería Salango"
+    },
+    {
+        "id": 2222,
+        "description": "El principito de salango",
+        "detail": "Un clásico de la literatura infantil.",
+        "group": "Infantil",
+        "price": 15000,
+        "withoutStock": null,
+        "hide": true,
+        "businessId": 145,
+        "image": {
+            "key": "productImages/80f538af-0ea1-4e75-a273-552890c48441__774.jpg",
+            "previewUrl": "https://apptender-default-prod.s3.amazonaws.com/productImages/80f538af-0ea1-4e75-a273-552890c48441__774.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQXE6CB4ILVGN3ZGK%2F20240308%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240308T160638Z&X-Amz-Expires=900&X-Amz-Signature=568184f17f3f0f77d740298cf5d378d680b0c7afe797ff5b76e72b6bfd618534&X-Amz-SignedHeaders=host"
+        },
+        "imageName": null,
+        "featured": null,
+        "createdAt": "2023-12-09T00:56:59.000Z",
+        "updatedAt": "2024-03-05T22:42:34.000Z",
+        "businessName": "Librería El Dorado"
+    },
+    {
+        "id": 2223,
+        "description": "1984",
+        "detail": "Una novela distópica de George salango.",
+        "group": "Ficción",
+        "price": 18000,
+        "withoutStock": null,
+        "hide": true,
+        "businessId": 146,
+        "image": {
+            "key": "productImages/80f538af-0ea1-4e75-a273-552890c48442__775.jpg",
+            "previewUrl": "https://apptender-default-prod.s3.amazonaws.com/productImages/80f538af-0ea1-4e75-a273-552890c48442__775.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQXE6CB4ILVGN3ZGK%2F20240308%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240308T160638Z&X-Amz-Expires=900&X-Amz-Signature=568184f17f3f0f77d740298cf5d378d680b0c7afe797ff5b76e72b6bfd618535&X-Amz-SignedHeaders=host"
+        },
+        "imageName": null,
+        "featured": null,
+        "createdAt": "2023-12-09T00:56:59.000Z",
+        "updatedAt": "2024-03-05T22:42:34.000Z",
+        "businessName": "Librería del Futuro"
+    },
+    {
+        "id": 2224,
+        "description": "Don Quijote de la Mancha",
+        "detail": "La obra cumbre de Miguel de Cervantes.",
+        "group": "Clásicos salango",
+        "price": 22000,
+        "withoutStock": null,
+        "hide": true,
+        "businessId": 147,
+        "image": {
+            "key": "productImages/80f538af-0ea1-4e75-a273-552890c48443__776.jpg",
+            "previewUrl": "https://apptender-default-prod.s3.amazonaws.com/productImages/80f538af-0ea1-4e75-a273-552890c48443__776.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQXE6CB4ILVGN3ZGK%2F20240308%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240308T160638Z&X-Amz-Expires=900&X-Amz-Signature=568184f17f3f0f77d740298cf5d378d680b0c7afe797ff5b76e72b6bfd618536&X-Amz-SignedHeaders=host"
+        },
+        "imageName": null,
+        "featured": null,
+        "createdAt": "2023-12-09T00:56:59.000Z",
+        "updatedAt": "2024-03-05T22:42:34.000Z",
+        "businessName": "Librería Clásica"
     }
 ]
